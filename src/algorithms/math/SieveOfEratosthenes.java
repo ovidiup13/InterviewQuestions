@@ -1,8 +1,5 @@
 package algorithms.math;
 
-/**
- * Created by ovidi
- */
 public class SieveOfEratosthenes {
 
     private static int[] GetSieve(int n){

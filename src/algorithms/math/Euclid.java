@@ -1,8 +1,5 @@
 package algorithms.math;
 
-/**
- * Created by ovidiup13
- */
 public class Euclid {
 
     /**

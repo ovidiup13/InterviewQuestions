@@ -1,8 +1,5 @@
 package algorithms.math;
 
-/**
- * Created by ovidi on 15/07/2017.
- */
 public class NumberSystems {
 
     private static int toBase10(String n, int base){

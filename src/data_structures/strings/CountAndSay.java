@@ -1,8 +1,6 @@
 package data_structures.strings;
 
-/**
- * Created by ovidi on 04/10/2016.
- */
+
 public class CountAndSay {
 
     public static void main(String[] args) {

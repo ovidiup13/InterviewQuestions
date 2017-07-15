@@ -3,9 +3,7 @@ package data_structures.arrays;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by ovidi
- */
+
 public class RotateMatrix {
 
     public static void main(String[] args) {

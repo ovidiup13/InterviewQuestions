@@ -2,9 +2,7 @@ package data_structures.linkedlists;
 
 import java.util.LinkedList;
 
-/**
- * Created by ovidi
- */
+
 public class Duplicate {
 
     public static void main(String[] args) {

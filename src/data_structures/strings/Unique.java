@@ -1,14 +1,9 @@
 package data_structures.strings;
 
-import java.util.Collection;
 import java.util.Hashtable;
 import java.util.Map;
-import java.util.StringJoiner;
-import java.util.stream.IntStream;
 
-/**
- * Created by ovidi
- */
+
 public class Unique {
 
     public static void main(String[] args) {

@@ -2,9 +2,7 @@ package data_structures.strings;
 
 import java.util.Arrays;
 
-/**
- * Created by ovidi
- */
+
 public class ReverseString {
 
     public static void main(String[] args) {

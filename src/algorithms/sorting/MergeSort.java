@@ -6,7 +6,6 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 /**
- * Created by ovidiup13
  * // TODO: fix this
  */
 public class MergeSort implements SortingAlgorithm {

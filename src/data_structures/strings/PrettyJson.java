@@ -4,9 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
 
-/**
- * Created by ovidi5
- */
+
 public class PrettyJson {
 
     private static final char CURLY_BRACKET_INNER = '{';

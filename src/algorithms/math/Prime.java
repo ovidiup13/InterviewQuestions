@@ -1,8 +1,6 @@
 package algorithms.math;
 
-/**
- * Created by ovidiup13
- */
+
 public class Prime {
 
     private static boolean IsPrime(int n){

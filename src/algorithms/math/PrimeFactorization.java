@@ -3,9 +3,6 @@ package algorithms.math;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by ovidiup13
- */
 public class PrimeFactorization {
 
     private static List<Integer> GetFactorization(int n){

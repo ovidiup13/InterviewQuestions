@@ -2,9 +2,7 @@ package algorithms.binary_search;
 
 import java.util.*;
 
-/**
- * Created by ovidi
- */
+
 public class RotatedSearchArray {
 
     public static void main(String[] args) {
