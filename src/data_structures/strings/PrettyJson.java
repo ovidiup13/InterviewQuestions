@@ -15,11 +15,6 @@ public class PrettyJson {
     private static final char COMMA = ',';
     private static final char TAB = '\t';
 
-    public static void main(String[] args) {
-        String s = "{\"attributes\":[{\"nm\":\"ACCOUNT\",\"lv\":[{\"v\":{\"Id\":null,\"State\":null},\"vt\":\"java.util.Map\",\"cn\":1}],\"vt\":\"java.util.Map\",\"status\":\"SUCCESS\",\"lmd\":13585},{\"nm\":\"PROFILE\",\"lv\":[{\"v\":{\"Party\":null,\"Ads\":null},\"vt\":\"java.util.Map\",\"cn\":2}],\"vt\":\"java.util.Map\",\"status\":\"SUCCESS\",\"lmd\":41962}]}";
-        prettyJSON(s).forEach(System.out::println);
-    }
-
     public static ArrayList<String> prettyJSON(String a) {
 
         ArrayList<String> result = new ArrayList<>();
@@ -82,6 +77,11 @@ public class PrettyJson {
         }
 
         return result;
+    }
+
+    public static void main(String[] args) {
+        String s = "{\"attributes\":[{\"nm\":\"ACCOUNT\",\"lv\":[{\"v\":{\"Id\":null,\"State\":null},\"vt\":\"java.util.Map\",\"cn\":1}],\"vt\":\"java.util.Map\",\"status\":\"SUCCESS\",\"lmd\":13585},{\"nm\":\"PROFILE\",\"lv\":[{\"v\":{\"Party\":null,\"Ads\":null},\"vt\":\"java.util.Map\",\"cn\":2}],\"vt\":\"java.util.Map\",\"status\":\"SUCCESS\",\"lmd\":41962}]}";
+        prettyJSON(s).forEach(System.out::println);
     }
 
 }
