@@ -1,7 +1,6 @@
-package data_structures.pointers;
+package algorithms.pointers;
 
 import java.util.ArrayList;
-import java.util.Objects;
 
 /**
  * Created by ovidi on 17/07/2017.

@@ -1,4 +1,4 @@
-package data_structures.pointers;
+package algorithms.pointers;
 
 import java.util.ArrayList;
 

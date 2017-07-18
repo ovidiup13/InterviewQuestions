@@ -1,4 +1,4 @@
-package data_structures.time;
+package algorithms.time;
 
 
 import java.util.stream.IntStream;
